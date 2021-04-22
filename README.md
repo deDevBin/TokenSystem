@@ -1,3 +1,3 @@
 # TokenSystem
  Just a little useless project of mine                                        
- The main branch is the most recent version, recent versions will be saved as branches
+# [RELEASES](https://github.com/deDevBin/TokenSystem/releases/)
